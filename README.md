@@ -1,5 +1,6 @@
 # Hello, I'm BoredKarma
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoredKarma)](https://github.com/anuraghazra/github-readme-stats)
+
+Helo helldo hello helo
 
 ## Languages I like
 * C++
